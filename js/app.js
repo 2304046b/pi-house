@@ -2,8 +2,8 @@
 
 	var settings = {
 		channel: 'pi-house',
-		publish_key: 'demo',
-		subscribe_key: 'demo'
+		publish_key: 'pub-c-d7031905-2761-47d5-a9b4-d15da7ff153',
+		subscribe_key: 'sub-c-c34fe3bd-da3e-4394-a72d-4dd48ce71bbe'
 	};
 
 	var pubnub = PUBNUB(settings);
